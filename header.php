@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="styles.css" />
     <script src="https://kit.fontawesome.com/afac5083a7.js" crossorigin="anonymous"></script>
     <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/x-icon" href="/images/gamepad-solid.ico">
 </head>
 
 <body>

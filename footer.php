@@ -40,7 +40,7 @@
                     <a class="social__icon--link" href="/" target="_blank" aria-label="Instagram">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a class="social__icon--link" href="//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber" target="_blank" aria-label="Youtube">
+                    <a class="social__icon--link" href="/" target="_blank" aria-label="Youtube">
                         <i class="fab fa-youtube"></i>
                     </a>
                     <a class="social__icon--link" href="/" target="_blank" aria-label="Twitter">

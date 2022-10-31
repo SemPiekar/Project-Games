@@ -21,23 +21,23 @@ include_once 'header.php'
     <div class="services__card">
       <h2>Sem Piekar</h2>
       <p>9018659@student.zadkine.nl</p>
-      <button>Get Started</button>
+      <button><a class="name__btn" href="sem.php">Get Started</a></button>
     </div>
     <div class="services__card">
       <h2>Stefano Koster</h2>
       <p>email</p>
-      <button>Get Started</button>
+      <button><a class="name__btn" href="/stefano.php">Get Started</a></button>
     </div>
     <div class="services__card">
       <h2>Ambriël Lourents
       </h2>
       <p>email</p>
-      <button>Get Started</button>
+      <button><a class="name__btn" href="/ambriel.php">Get Started</a></button>
     </div>
     <div class="services__card">
       <h2>Timo Hoogeveen</h2>
       <p>email</p>
-      <button>Get Started</button>
+      <button><a class="name__btn" href="/timothy.php">Get Started</a></button>
     </div>
   </div>
 </div>
