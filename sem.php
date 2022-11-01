@@ -3,7 +3,7 @@ include_once 'header.php'
 ?>
 
 <main class="main__student">
-    <section>
+    <section class="favo__section">
         <h2 class="favo__header">Favo Game</h2>
         <div class="favo__container">
             <img class="favo__picture" src="images/StateOfDecay2.jpg" alt="Favo Game picture">
